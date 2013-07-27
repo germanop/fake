@@ -6,8 +6,6 @@
 # Packages
 *.egg
 *.egg-info
-dist
-build
 eggs
 parts
 bin
@@ -30,6 +28,4 @@ nosetests.xml
 *.mo
 
 # Mr Developer
-.mr.developer.cfg
-.project
 .pydevproject
